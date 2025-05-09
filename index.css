@@ -1,0 +1,68 @@
+p {
+  font-family: Garamond, serif;
+  font-size: 15pt;
+  color: #f6f6df;
+  position: relative;
+  top: -20px;
+}
+
+h2 {
+  font-family: Gerogia, serif;
+  font-size: 20pt;
+  color: #f6f6df;
+  position: relative;
+  top: -20px;
+}
+
+#price {
+  font-family: sans-serif;
+  font-size: 15pt;
+  position: relative;
+  top: -20px;
+}
+
+button {
+  position: relative;
+  cursor: pointer;
+  color: #e2b46a;
+  background-color: #153242;
+  border-radius: 90%;
+  padding: 8px;
+  transition: filter 0.3s ease;
+  bottom: -13.5px;
+}
+
+button:hover {
+  filter: invert(1);
+}
+
+body {
+  background-color: #e2b46a;
+  text-align: center;
+}
+
+.boxes {
+  position: relative;
+  background-color: #27548a;
+  height: 230px;
+  width: 800px;
+  padding: 8px;
+  margin: 25px auto;
+  border-radius: 100px;
+}
+
+#intro {
+  color: #153242;
+  font-family: sans-serif;
+  position: relative;
+}
+
+h1 {
+  color: #e2b46a;
+  font-family: "Times New Roman", Times, serif;
+  background-color: #153242;
+  width: 350px;
+  margin: 0 auto;
+  border-radius: 25px;
+  display: inline-block;
+}
